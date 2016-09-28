@@ -5,6 +5,13 @@
 
 Improving my modularity thinking in JS
 
+```
+npm install
+
+npm start
+
+```
+
 # Notes
 
 ## Modularity
