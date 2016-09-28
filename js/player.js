@@ -12,3 +12,4 @@ export default function setName(newName) {
 export function getName() {
     return playerName;
 }
+
